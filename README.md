@@ -12,5 +12,4 @@ I created a home page using basic tags and styled it using CSS.
 - Styling with classes, IDs, and colors
 - Folder structure for front-end projects
 
-## Live Demo
-(Optional: Add a GitHub Pages link later!)
+
